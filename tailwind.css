@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin:0%;
+}
+.found{
+    border: 1px solid white;
+    margin:10px;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 15px;;
+    height: 60px;
+    width: 350px;
+}
+.felix{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+}
+.flex{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border:1px solid rgb(245, 220, 220);
+    height:500px;
+    width: 400px;
+    margin-top: 40px;
+}
+.flow{
+    display: flex;
+    gap:5px;
+    flex-direction: row;
+    align-items: center;
+    border:1px solid white;
+    background-color: white;
+    height: 70px;
+    width: 350px;
+}
+.flown{
+    display: flex;
+    gap:2px;
+    flex-direction: row;
+    align-items: center;
+    border:5px solid white;
+    background-color: lightgrey;
+    height: 60px;
+    border:1px solid white;
+    width: 355px;
+}
+.pine{
+    width:250px;
+    padding-left: 10px;
+}
+.find{
+    border: 1px solid whitesmoke;
+    margin:10px;
+    background-color: lightgrey;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 15px;;
+    height: 60px;
+    width: 350px;
+}
+input[type=text] {
+    width: 280px ;
+    padding:12px;
+    margin:8px 0px;
+    box-sizing: border-box;
+  }
+  .plus{
+    border:1px solid white;
+    background-color: blueviolet;
+    width:50px;
+    height:45px;
+    padding-left: 10px;
+    padding-top: 5px;
+  }
+  .host{
+    border:1px solid white;
+    margin-left: 50px;
+    background-color: red;
+    width:50px;
+    padding: 5px;
+    height:60px;
+  }
+  i{
+    color:white;
+  }
+  .old{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    height: 70px;
+    width: 350px;
+  }
+  .us{
+    border:1px solid black;
+    background-color: blueviolet;
+    width:90px;
+    height:45px;
+    padding: 10px;
+    color:white;
+    margin-left: 90px;
+  }
